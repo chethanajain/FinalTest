@@ -28,4 +28,4 @@ cy.get('a[href="/computers"]').click()
 
 })
 
-    
+    /** @todo- to improve this code later */
